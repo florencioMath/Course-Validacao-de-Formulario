@@ -29,40 +29,44 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 De uma olhada em como ficou a página no <a href="#">Github</a> <br>
 
-*Estou trabalhando no nas imagens e gifs do Layout.
-
-<!-- 
 GIFs:
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/1matheusflorencio/Alura-TO-DO/master/README%20arquivos/01%20-%20Cadastro%20de%20tarefas.gif" alt="GIF de Cadastro de Tarefas"/><br>
+      <img width="80%" src="https://github.com/1matheusflorencio/Alura-Validacao-de-Formulario/blob/main/README%20Arquivos/01%20-%20Cadastro%20Nome,%20Email%20e%20Senha.gif?raw=true" alt="GIF do Cadastro"/><br>
         <sub>
-         Cadastrando Tarefas
+         Cadastrando o Nome, E-mail e senha
         </sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/1matheusflorencio/Alura-TO-DO/master/README%20arquivos/02%20-%20Cadastro%20de%20tarefas.gif" alt="GIF de Cadastro de Tarefas"/><br>
+      <img width="80%" src="https://github.com/1matheusflorencio/Alura-Validacao-de-Formulario/blob/main/README%20Arquivos/02%20-%20Cadastro%20Nascimento%20e%20CPF.gif?raw=true" alt="GIF do Cadastro"/><br>
         <sub>
-          Cadastrando mais algumas Tarefas
+          Cadastrando a Data de Nascimento e CPF - Aqui foi utilizado o gerador de CPF
         </sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/1matheusflorencio/Alura-TO-DO/master/README%20arquivos/03%20-%20Tarefa%20concluida%20e%20deletada.gif" alt="GIF Conluindo e Deletando Tarefas"/><br>
+      <img width="80%" src="https://github.com/1matheusflorencio/Alura-Validacao-de-Formulario/blob/main/README%20Arquivos/03%20-%20Cadastro%20CEP.gif?raw=true" alt="GIF do Cadastro"/><br>
         <sub>
-          Concluindo e Deletando Tarefas
+          Cadastrando o CEP - Foi utilizado a API ViaCEP para o preenchimento dos campos
+        </sub>
+    </td>
+  </tr>
+      <tr>
+    <td align="center">
+      <img width="80%" src="https://github.com/1matheusflorencio/Alura-Validacao-de-Formulario/blob/main/README%20Arquivos/04%20-%20Cadastro%20Concluido.gif?raw=true" alt="GIF do Cadastro concluído"/><br>
+        <sub>
+          Cadastro concluído
         </sub>
     </td>
   </tr>
 </table>
   </div>
-
-  -->
+  
 ---
 
 ## <a id="devs">👩‍💻 Devs</a> 
